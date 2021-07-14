@@ -1,5 +1,5 @@
-# MyGameRecords
-####游戏开发学习记录 - 孙雨航
+# MyGameRecords - 孙雨航    
+游戏开发学习记录
 
 -----
 1. **Unity实现的守望先锋类FPS游戏**    
